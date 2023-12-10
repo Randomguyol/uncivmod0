@@ -1,0 +1,5 @@
+[ 
+
+{ "name": "Arkham Republic", "leaderName": "Charis Atler", "adjective": ["Honor", "loyalty"], "startBias": ["Coast", "River"], "preferredVictoryType": "Diplomatic", "startIntroPart1": "Greetings", "declaringWar": "Prepare for War", "attacked": "This Nation is no starnger to War", "defeated": "Lead these lands well", "introduction": "Hello stanger", "neutralHello": "Hello", "hateHello": "yes", "tradeRequest": "Let us trade, so both of nations benefit", "cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"], "outerColor": [255,255,255], "innerColor": [60,65,66], "uniqueName": "The way of the Hack Lords", "uniques": [ "Enables construction of Spaceship parts", "Roads connect tiles across rivers", "[+1000]% [Gold] [Food] [Science] [Faith] [Culture] [Production] [in all cities]", "Enables conversion of city production to [Gold]", "\"Borrows\" city names from other civilizations in the game", "[-100]% Strength <when not at war>", "[+100]% Strength <when defending>" ] }
+ 
+]
